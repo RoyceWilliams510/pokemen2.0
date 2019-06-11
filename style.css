@@ -1,0 +1,26 @@
+#intro{
+    margin-top: 50px;
+    text-align: center;
+}
+.bigButtons{
+    font-family:"georgia", "serif";
+    height: 24px;
+    font-size: 12px;
+    background-color:lavender;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#nameTaker{
+    margin-top: 50px;
+}
+.menuCharts{
+
+}
+#trainer1Menu{
+    position: absolute;
+    top: 8%
+}
+#trainer2Menu{
+    position: absolute;
+    top: 8%;
+    margin-left:500px;
+}
